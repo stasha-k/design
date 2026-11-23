@@ -30,3 +30,4 @@ This repo includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) th
 3. Push to `main` (or run the workflow manually from the Actions tab) — the site will be published at `https://<your-username>.github.io/<repo-name>/`.
 
 Routing uses `HashRouter` and Vite's `base: './'` setting so the app works correctly regardless of the repository name or subpath, with no extra configuration needed.
+# design
